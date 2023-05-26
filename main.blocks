@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Bg6ZYR3!0bGJb[JAA`Jx">index</variable></variables><block type="pxt-on-start" id="f9u,$C}-U_w;9MAtUYf[" x="0" y="0"><statement name="HANDLER"><block type="pxt_controls_for" id="ybzP4ArIaTuPtUHqR-!N"><value name="VAR"><shadow type="variables_get_reporter" id="Itr0R=O8clTf/JakR%yG"><field name="VAR" id="Bg6ZYR3!0bGJb[JAA`Jx">index</field></shadow></value><value name="TO"><shadow type="math_whole_number" id="4:BXFm-J71tVl,/MDX7r"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_play_note" id="yXTNxNK|0lP`i!^WupQQ"><value name="note"><shadow type="device_note" id="0PRFsrE$2E}?+3l%Qg3z"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="QF9w?)4iKV3NB;_2`ZEN"><field name="fraction">BeatFraction.Quarter</field></shadow></value><next><block type="device_show_number" id="pV+b{r5tlvsA#Z0f*]$#"><value name="number"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="math_arithmetic" id="9Pqnv[G6i`lR)hRgT#Fu"><field name="OP">MINUS</field><value name="A"><shadow type="math_number" id="pR/Dt`pSW!kGN-uXx2-t"><field name="NUM">6</field></shadow></value><value name="B"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="variables_get" id="29^HWJDrVY8kM4kMFk9C"><field name="VAR" id="Bg6ZYR3!0bGJb[JAA`Jx">index</field></block></value></block></value></block></next></block></statement><next><block type="device_print_message" id="fY.ESYUA81lG^!$|teji"><value name="text"><shadow type="text" id="3#.:M]t}M]_c9DDMmfhj"><field name="TEXT">fasion newstar away bat dau</field></shadow></value><next><block type="device_show_leds" id="}s%E,Whxvx#e6f;B:qQP"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_clear_display" id="fxUd7sM$,NX`%nOA=I/7"><next><block type="device_show_leds" id="d-FP@O)Zn{#j!K^?{J|]"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        . . # . # 
+        . # . # # 
+        . . . # .
+        `</field><next><block type="device_clear_display" id="~Fwz?Vo61mpcFxtDi(|r"><next><block type="device_show_leds" id="q|~QEj.7d1IFDKZZwPEY"><field name="LEDS">`
+        . # # # . 
+        . # # # . 
+        # . # . # 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_clear_display" id="4D)8Q8A933!E62M8!B)e"><next><block type="device_print_message" id="LB^*dT`gyUeC_Mrv+UF)"><value name="text"><shadow type="text" id="1Ejq-6w7rsr7OOcYu:]Z"><field name="TEXT">mimi va lyly winnerrrr!</field></shadow></value><next><block type="device_play_note" id="1fa5VdsRIyPlFa8U?RC3"><value name="note"><shadow type="device_note" id="Kllr,|N(w+Kr$fJJ)-F!"><field name="name">392</field></shadow></value><value name="duration"><shadow type="device_beat" id="/Ic.[:Q1jNq#C-}MU[8F"><field name="fraction">BeatFraction.Whole</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="f_2yQE7Pevk49x]vvyMU" x="350" y="5"></block></xml>
